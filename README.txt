@@ -1,3 +1,5 @@
+Dataset used is PASCAL VOC2010 : https://drive.google.com/open?id=1XNX_2oqoJqa6wJAAhcetPOM6du9MT38r
+
 *********************BUILDING CLASSIFIER****************************
 
 Extracting data:
